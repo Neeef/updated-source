@@ -118,4 +118,4 @@ client.on("messageReactionAdd", async (reaction, user, CURARGS) => {
 });
 
 
-client.login("NDkyODI4MTU1NTEwNTIxODY2.DpBWKw._-pRgYx43iAi1ulmFMIla3uJs78");
+client.login("null");
